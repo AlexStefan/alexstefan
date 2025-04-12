@@ -1,3 +1,5 @@
+<h1 align="center" style="display:none">alexstefan</h1>
+
 # Alexandru Stefan
 
 _create, discover or demo ideas_
